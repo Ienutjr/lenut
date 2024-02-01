@@ -279,7 +279,7 @@ TextLabel.BorderSizePixel = 0
 TextLabel.Position = UDim2.new(0.308833092, 0, 0.170426071, 0)
 TextLabel.Size = UDim2.new(0, 746, 0, 338)
 TextLabel.Font = Enum.Font.LuckiestGuy
-TextLabel.Text = "Wait... Script is Executing..."
+TextLabel.Text = ""
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 41.000
 
@@ -290,7 +290,7 @@ TextLabel_2.BorderSizePixel = 0
 TextLabel_2.Position = UDim2.new(0.360834211, 0, 0.786967397, 0)
 TextLabel_2.Size = UDim2.new(0, 533, 0, 146)
 TextLabel_2.Font = Enum.Font.FredokaOne
-TextLabel_2.Text = "Executing..."
+TextLabel_2.Text = ""
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextSize = 54.000
 ScreenGui.IgnoreGuiInset = true
